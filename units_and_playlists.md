@@ -1,12 +1,9 @@
-### Units and Playlists are where the action happens. 
-</br>
+Highly coupled with the code, Units are tutorials that walk you through different areas, help you checkout patterns or recurring issues.
 
-
-Highly coupled with the code, Units are tutorials that walk you through different areas, help you checkout patterns or recurring issues for example, using commands in your CLI.
 </br></br>
 
-Playlists - like this one that you are in - are step by step flows of Units, ReadMe files, Videos and/or Links that can give you a structured approach on how to explore the repo.
-</br>
-
-# 📥
-Make sure you always have the latest version of your repository pulled as well as make or merge PR's after creating Units or Playlists.</br></br>
+Check out [this document](https://docs.swimm.io/en/articles/4355507-how-to-swimm-units-and-playlists) for a step by step guide.
+You can also watch this short video:
+ </br></br>
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/LLDD7SK0gpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
